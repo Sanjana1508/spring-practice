@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Mon Jun 14 09:13:44 IST 2021
+org.eclipse.jst.jee.server\:/binary\:/home/sanjp/.m2/repository/org/apache/tomcat/embed/tomcat-embed-el/9.0.46/tomcat-embed-el-9.0.46.jar=WEB-INF/lib/tomcat-embed-el-9.0.46.jar
+org.eclipse.jst.jee.server\:/binary\:/home/sanjp/.m2/repository/org/springframework/spring-web/5.0.6.RELEASE/spring-web-5.0.6.RELEASE.jar=WEB-INF/lib/spring-web-5.0.6.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/home/sanjp/.m2/repository/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.46/tomcat-embed-websocket-9.0.46.jar=WEB-INF/lib/tomcat-embed-websocket-9.0.46.jar

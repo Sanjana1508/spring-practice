@@ -1,0 +1,9 @@
+package com.rest.assignment.dao;
+
+import org.springframework.data.repository.PagingAndSortingRepository;
+
+import com.rest.assignment.entity.Book;
+
+public interface BookRepository extends PagingAndSortingRepository<Book, Integer> {
+
+}

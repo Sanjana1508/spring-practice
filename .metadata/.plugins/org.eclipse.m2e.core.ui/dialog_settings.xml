@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/home/sanjp/eclipseEE/eclipse-workspace"/>
+			<item value="/home/sanjp/eclipseEE/eclipse-workspace/myMavenProject"/>
+			<item value="/home/sanjp/eclipseEE/eclipse-workspace/Servers"/>
+			<item value="/home/sanjp/eclipseEE/eclipse-workspace/web-customer-tracker"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.rest.assignment.AssignmentRest"/>
+			<item value="com.rest.assignment.RestAssignment1"/>
+			<item value="com.luv2code.springdemo"/>
+		</list>
+		<list key="groupId">
+			<item value="com.rest.assignment"/>
+			<item value="com.luv2code.springdemo"/>
+		</list>
+		<list key="artifactId">
+			<item value="AssignmentRest"/>
+			<item value="RestAssignment1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="1.0"/>
+			<item value="1.0.0"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/sanjp/eclipseEE/eclipse-workspace/RestAssignment2"/>
+			<item value="/home/sanjp/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/RestAssignment/RestAssignment"/>
+			<item value="/home/sanjp/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/RestAssignment"/>
+			<item value="/home/sanjp/eclipseEE/eclipse-workspace/RestAssignment"/>
+			<item value="/home/sanjp/eclipseEE/eclipse-workspace/spring-crm-rest-demo"/>
+			<item value="/home/sanjp/eclipseEE/eclipse-workspace/cruddemo"/>
+			<item value="/home/sanjp/eclipseEE/eclipse-workspace/mycoolapp"/>
+			<item value="/home/sanjp/eclipseEE/eclipse-workspace/spring-rest-demo"/>
+			<item value="/home/sanjp/eclipseEE/eclipse-workspace/jackson-databinding-json-demo"/>
+			<item value="/home/sanjp/Downloads/spring-security-5-demo-starter/spring-security-demo-starter/spring-security-demo-01-base-app"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="1.0"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

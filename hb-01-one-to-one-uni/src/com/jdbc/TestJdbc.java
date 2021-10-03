@@ -1,0 +1,20 @@
+package com.jdbc;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class TestJdbc {
+
+	public static void main(String[] args) {
+		String jdbcUrl="jdbc:mysql://localhost:3306/hb01OneToOneUni?useSSL=false&serverTimezone=UTC";
+		try {
+			System.out.println("Connecting to database : "+jdbcUrl);
+			Connection myConn = DriverManager.getConnection(jdbcUrl,"root","Sanj1508#");
+			System.out.println("Connection Successful");
+		}
+		catch(Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.springdemo.aspect.CRMLoggingASpect&apos; to &apos;CRMLoggingAspect&apos;&#x0A;- Original project: &apos;web-customer-tracker&apos;&#x0A;- Original element: &apos;com.springdemo.aspect.CRMLoggingASpect&apos;&#x0A;- Renamed element: &apos;com.springdemo.aspect.CRMLoggingAspect&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CRMLoggingASpect&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.springdemo.aspect{CRMLoggingASpect.java[CRMLoggingASpect" matchStrategy="1" name="CRMLoggingAspect" qualified="false" references="true" similarDeclarations="false" stamp="1622020490447" textual="false" version="1.0"/>
+</session>
